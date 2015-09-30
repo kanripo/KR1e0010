@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:12:32.208663
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0010_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋穀梁注疏卷七(起僖公元/年盡五年)¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　春秋穀梁注疏巻七¶
+#+PROPERTY: JUAN 卷七考證
 <pb:KR1e0010_WYG_007-24a>¶
 　春秋榖梁傳注疏卷七考證¶
 齊師宋師曹師次于聶北救邢傳疏莊三十二年狄伐¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　春秋穀梁傳注疏卷七考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:12:32.129645
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0010_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋穀梁注䟽卷三(起桓公元/年盡七年)¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　春秋穀梁注䟽巻三¶
+#+PROPERTY: JUAN 卷三考證
 <pb:KR1e0010_WYG_003-23a>¶
 　春秋穀梁傳注疏卷三考證¶
 元年春王𫝊桓無王○(臣召南/)按隠十年無正月義𤼵¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　春秋榖梁傳注疏卷三考證¶
-

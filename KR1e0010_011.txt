@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:12:32.279224
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1e0010_WYG_011-1a>¶
 欽定四庫全書¶
 　春秋榖梁注疏卷十一(起文公九年/盡十八年)¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　春秋穀梁注疏巻十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR1e0010_WYG_011-24a>¶
 　春秋榖梁𫝊注疏卷十一考證¶
 毛伯來求金○(臣召南/)按三𫝊皆言來求非禮夫來求¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　春秋榖梁𫝊注疏巻十一考證¶
-

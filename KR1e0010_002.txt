@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:12:32.110974
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1e0010_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋榖梁注疏卷二(起隠公四年/盡十一年)¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　春秋榖梁注疏卷二¶
+#+PROPERTY: JUAN 卷二考證
 <pb:KR1e0010_WYG_002-24a>¶
 　春秋榖梁𫝊注疏卷二考證¶
 𫝊𫝊曰言伐言取所惡也注稱𫝊曰者穀梁子不親受¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　春秋榖梁𫝊注疏卷二考證¶
-

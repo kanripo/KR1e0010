@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:12:32.162263
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1e0010_WYG_005-1a>¶
 欽定四庫全書¶
 　春秋穀梁注疏卷五(起莊公元年/盡十八年)¶
@@ -668,6 +670,7 @@
 　¶
 　¶
 　春秋穀梁注疏卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR1e0010_WYG_005-38a>¶
 　春秋榖梁傳注疏卷五考證¶
 單伯逆王姬傳單伯者何吾大夫之命乎天子者也○¶
@@ -830,4 +833,3 @@
 　¶
 　¶
 　春秋榖梁傳注疏卷五考證¶
-

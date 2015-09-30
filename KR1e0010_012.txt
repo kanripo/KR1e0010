@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:12:32.294490
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0010_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋榖梁注疏卷十二(起宣公元年/盡十八年)¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　春秋穀梁注疏卷十二¶
+#+PROPERTY: JUAN 卷十二考證
 <pb:KR1e0010_WYG_012-34a>¶
 　春秋穀梁𫝊注疏卷十二考證¶
 齊人取濟西田𫝊疏哀公犯齊陵邾而反喪邑易辭之¶
@@ -686,4 +689,3 @@
 　¶
 　¶
 　春秋榖梁傳注疏卷十二考證¶
-

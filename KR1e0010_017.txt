@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:12:32.399149
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1e0010_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋穀梁注疏卷十七(起昭公元年/盡十三年)¶
@@ -470,6 +472,7 @@
 吳滅州來¶
 　¶
 　春秋穀梁注疏卷十七¶
+#+PROPERTY: JUAN 卷十七考證
 <pb:KR1e0010_WYG_017-27a>¶
 　春秋穀梁傳注疏卷十七考證¶
 取鄆注鄆魯邑○(臣召南/)按魯有兩鄆此鄆本莒邑魯¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　春秋穀梁傳注疏卷十七考證¶
-

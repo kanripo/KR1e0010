@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:12:32.472443
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [跋語]
 <pb:KR1e0010_WYG_021-1a>¶
 　　檢討(臣/)齊召南謹言按榖梁一書文清義約與左¶
 　　氏公羊竝為聖經羽翼自石渠大議博士聿興五¶
@@ -28,4 +30,3 @@
 敇校刋再三叅攷辨其舛訛補其脫漏錄成考證若干¶
 　　條其無他書可證別夲可據者槩從其舊以志闕¶
 　　疑(臣召南/)謹識¶
-

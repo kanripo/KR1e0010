@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳注疏
-#+DATE: 2015-09-23 09:39:21
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:12:32.381041
+#+PROPERTY: ID KR1e0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1e0010_WYG_016-1a>¶
 欽定四庫全書¶
 　春秋穀梁注疏卷十六(起襄公十六年/盡三十一年)¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　春秋穀梁注疏卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR1e0010_WYG_016-27a>¶
 　春秋穀梁傳注疏卷十六考證¶
 公㑹晉侯宋公衞侯鄭伯曹伯莒子邾子薛伯把伯小¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　春秋穀梁傳注疏卷十六考證¶
-
